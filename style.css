@@ -1,0 +1,136 @@
+/* un-ordered list */
+
+/* ul{
+    list-style-type: circle;
+} */
+/* ordered list */
+/* ul{
+    list-style-type: decimal-leading-zero;
+} */
+/* Images for bullets */
+/* ul{
+    list-style-image: url(./flower.jpg);
+} */
+
+/* List style position */
+/* .illuminations{
+    list-style-position: inside;
+}
+.season{
+    list-style-position: outside;
+} */
+
+/* list shorthand */
+/* ul{
+    list-style: inside square;
+} */
+
+/* Table properties */
+/* table{
+    width: 600px;
+    border: 1px solid black;
+    padding: 10px;
+    text-transform: lowercase;
+    letter-spacing:10px;
+    font-size: larger;
+} */
+
+/* table,th,td{
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: right;
+}
+table{
+    background-color: rgb(255, 0, 179);
+}
+tr:hover{
+    background-color: blueviolet;
+    cursor: crosshair;
+}
+td{
+    padding: 10px;
+}
+th{
+    background-color: purple;
+    color: wheat;
+}
+.even{
+    background-color: black;
+    color: white;
+} */
+/* empty Cells */
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;}
+    table{
+    empty-cells: hide;} */
+
+    /* Gaps beteen cells */
+    /* td {
+        background-color: #0088dd;
+        padding: 15px;
+        border: 2px solid #000000;
+        empty-cells: hide;
+    }
+        
+    table{
+       border-spacing: 5px 15px;} 
+        
+      table {
+        border-collapse: collapse;} */
+
+        /* styling forms */
+   #ln{
+    margin-top: 5px;
+   }
+   /* input{ */
+/* font-size: 20px;
+background-color: rgb(226, 43, 43);
+color: aliceblue;
+   } */
+
+   /* input{
+    border: 2px solid purple;
+    border-radius: 30px;
+    }
+    */
+   /* input:hover{
+background-color: black;
+   } */
+   /* input:focus{
+    border: 5px solid white;
+    outline: none;
+   }
+
+#fn{
+background-image: url("https://img.icons8.com/ios-glyphs/30/new-post.png");
+background-repeat: no-repeat;
+padding-left: 40px;
+padding-top: 5px
+
+}
+
+input{
+    font-size: 20px;
+} */
+
+/* field set */
+fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;}
+    legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;}
+
+    #btn:hover{
+cursor: pointer;
+
+    }
+    
